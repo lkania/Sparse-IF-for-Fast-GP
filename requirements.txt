@@ -1,0 +1,8 @@
+tensorflow==2.2.0rc4
+numpy==1.18.5
+tqdm==4.43.0
+matplotlib==3.3.0
+pandas==1.0.5
+GPy==1.9.9
+packaging==20.3
+gpflow==2.1.0
