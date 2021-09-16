@@ -17,7 +17,7 @@ of computer experiments. They constitute a powerful kernelized non-parametric
 method with well-calibrated uncertainty estimates, however, off-the-shelf GP
 inference procedures are limited to datasets with a few thousand data points
 because of their cubic computational complexity. For this reason, many sparse
-GPs techniques were developed over the past years. In this work, access the [paper](), 
+GPs techniques were developed over the past years. In this work, access the [paper](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_854.pdf), 
 we focus on GP regression tasks and propose a new algorithm to train variational
 sparse GP models. An analytical posterior update expression based on the 
 Information Filter is derived for the variational sparse GP model.
@@ -75,7 +75,7 @@ For benchmarking SOLVEGP, please access the authors' repository [github.com/thja
 
 ## Citing the work
 
-To cite this work, please reference the corresponding [ECML PKDD 2021 paper]() 
+To cite this work, please reference the corresponding [ECML PKDD 2021 paper](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_854.pdf) 
 ```
 @article{SparseIFforGP,
   author = {Kania, Lucas and Sch\"urch, Manuel and Azzimonti, Dario and Benavoli,Alessio},
